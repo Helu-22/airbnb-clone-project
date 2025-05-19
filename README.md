@@ -43,3 +43,24 @@ An intuitive interface increases trust and user satisfaction. Smooth navigation,
 | **DevOps Engineers** | Set up and maintain deployment pipelines, CI/CD workflows, server configurations, and manage production environment. |
 | **Product Owner** | Defines the product vision, gathers requirements, prioritizes features, and acts as the voice of the user. |
 | **Scrum Master** | Facilitates Agile ceremonies (standups, retrospectives), removes blockers, ensures smooth workflow and team efficiency. |
+## UI Component Patterns
+
+To ensure a modular and reusable structure, we will design the following UI components for the AirBnB clone:
+
+### 1. Navbar
+- Contains logo, search input, user navigation
+- Adapts to mobile with a responsive menu
+
+### 2. Property Card
+- Displays a property’s image, price, location, and rating
+- Includes a “favorite” (heart) button
+- Fully responsive and used across listing pages
+
+### 3. Footer
+- Contains links to pages (About, Contact, FAQs)
+- Social media icons and copyright
+- Styled consistently with overall theme
+
+These components will be built with reusability and responsiveness in mind to maintain a consistent user interface across the app.
+Add full README content with Project Roles and Responsibilities
+Add full README content with Project Roles and Responsibilities
